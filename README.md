@@ -2,7 +2,7 @@
 
 **`Engineer | Developer | Photographer | Reader `**
 
-I'm a Software Engineer from Melbourne, Australia but I'm currently based in Boston, Massachusetts. I specialise in DevOps, Data Engineer, MLOps, Kubernetes and Observability. On and off, I work as a freelancer full-stack web developer, designing web apps and websites for small businesses, non-profits and local clinics.
+I'm a Software Engineer from Melbourne, Australia, but I'm currently based in Boston, Massachusetts. I recently got my bachelor's degree in Computer Engineering with a concentration in Machine Learning from Boston University. I specialise in DevOps, Data Engineering, MLOps, Kubernetes and Observability. On and off, I work as a freelancer full-stack web developer, designing web apps and websites for small businesses, non-profits and local clinics.
 
 <p align="center">
   <a href="mailto:suij2003@gmail.com">
