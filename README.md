@@ -2,11 +2,13 @@
 
 **`Engineer | Developer | Photographer | Reader `**
 
-I'm a Software Engineer from Melbourne, Australia, but I'm currently based in Boston, Massachusetts. I recently got my bachelor's degree in Computer Engineering with a concentration in Machine Learning from Boston University. 
+I'm a Software Engineer from Melbourne, Australia, currently based in Boston. I hold a Bachelor's in Computer Engineering with a concentration in Machine Learning from Boston University.
 
-Right now, I'm working with the lads over at the Mass Open Cloud, a public cloud computing initiative spearheaded by several institutions such as RedHat, Lenovo, BU, Harvard, MIT, NEU, along with the Massachusetts Green High Performance Computing Centre (MGHPCC).
+Currently, I'm working with the team at the Mass Open Cloud, a public cloud computing initiative spearheaded by several institutions, including Red Hat, Lenovo, BU, Harvard, MIT, NEU, and the Massachusetts Green High Performance Computing Centre (MGHPCC).
 
-I specialise in DevOps, Data Engineering, MLOps, Kubernetes and Observability. On and off, I work as a freelancer full-stack web developer, designing web apps and websites for small businesses, non-profits and local clinics.
+I specialise in DevOps, Data Engineering, MLOps, Kubernetes and Observability. On and off, I work as a freelance full-stack web developer, designing web apps and websites for small businesses, non-profits and local clinics.
+
+When I have time, I enjoy photography, cooking, BJJ, Muay Thai, reading, and 3D printing.
 
 <p align="center">
   <a href="mailto:suij2003@gmail.com">
